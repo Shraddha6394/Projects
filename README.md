@@ -17,12 +17,3 @@ The app will notify to readjust the light if required according to the light out
 Minimum Android SDK: Habita requires a minimum API level of 23.<br>
 Compile Android SDK: Habita requires you to compile against API 29 or later.
 
-<h2>  License</h2> 
-The MIT License (MIT)
-<h2>  Contributors</h2> 
-<a href="https://github.com/hackslash-nitp/habita-android/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=hackslash-nitp/habita-android" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).<br>
-###### ❤️ Thanks to our awesome contributors.
